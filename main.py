@@ -2,7 +2,7 @@ import numpy as np
 import scipy.ndimage as ndi
 import matplotlib.pyplot as plt
 
-array = np.load("C:\\Users\\henri\\Documents\\Hackaburg2025\\Github\\img01.npy")
+array = np.load("C:\\Users\\henri\\Documents\\Hackaburg2025\\Github\\img02.npy")
 
 # Step 1: Threshold values close to 0
 threshold = 0.18
